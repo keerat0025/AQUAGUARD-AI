@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.6417682926829268,
+  "precision": 0.5544041450777202,
+  "recall": 0.41796875,
+  "f1_score": 0.4766146993318486,
+  "train_rows": 2620,
+  "test_rows": 656,
+  "feature_count": 9,
+  "model_name": "Random Forest Classifier"
+}
